@@ -593,7 +593,6 @@ input[type=url] {
 .accordian label::after{
     content:'-';
     font-size: 1.5em;
-    rotate: 90deg;
 }
 
 .faq_vector {
